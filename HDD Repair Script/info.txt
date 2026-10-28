@@ -1,0 +1,26 @@
+💻🔧 HDD REPAIR SCRIPT: Fix Hard Drive Errors Using CMD! 🛠️
+
+Is your computer running slowly, freezing, or experiencing hard drive errors? Your HDD may need attention! 🚨
+
+In this guide, GENERATIVE AI Digital and Information Technology shows you how to use a simple Windows batch script to check your drive and repair Windows system files.
+
+✅ What does this script do?
+
+🔹 DISM — Repairs the Windows image.
+🔹 SFC /scannow — Checks and repairs corrupted Windows system files.
+🔹 CHKDSK C: /scan — Scans drive C: for file-system errors.
+
+📌 How to use it:
+1️⃣ Copy the script from the infographic.
+2️⃣ Open Notepad and paste the code.
+3️⃣ Save it as "GENERATIVE AI_HDD_Repair.bat".
+4️⃣ Select All Files when saving.
+5️⃣ Right-click the file and choose Run as administrator.
+
+⚠️ IMPORTANT SAFETY TIP!
+
+If your HDD is clicking, beeping, disappearing, or displaying a SMART failure warning, back up your important files immediately. Avoid repair scans that could stress a failing drive.
+
+Remember: Software can repair file-system errors, but it cannot fix physically damaged HDD hardware.
+
+💡 TECH QUESTION: Have you ever repaired a hard drive using CHKDSK, or did you have to replace the HDD? What was the problem?

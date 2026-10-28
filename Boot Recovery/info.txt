@@ -1,0 +1,24 @@
+💻🛠️ BOOT & RECOVERY PC REPAIR TOOLKIT — ONE SCRIPT, MULTIPLE SOLUTIONS!
+
+Is your Windows 10 or Windows 11 PC experiencing boot problems, corrupted system files, disk errors, or recovery issues? This toolkit brings several useful Windows troubleshooting commands together in one convenient .bat script! 🚀
+
+✅ What can this toolkit do? 🔹 Check Windows boot configuration
+🔹 Scan and repair corrupted system files using SFC
+🔹 Repair the Windows image using DISM
+🔹 Scan the system drive for file-system errors
+🔹 Check reported physical disk health
+🔹 Check and enable Windows Recovery Environment
+🔹 Back up boot configuration
+🔹 Attempt to create a System Restore Point
+🔹 Generate system information reports and repair logs
+
+📌 How to use it: 1️⃣ Copy the script shown in the infographic.
+2️⃣ Open Notepad and paste the code.
+3️⃣ Save it as GENERATIVE AI_Boot_Recovery_Toolkit.bat.
+4️⃣ Select All Files as the file type.
+5️⃣ Right-click the file and select Run as administrator.
+6️⃣ Choose the option you need from the menu.
+
+⚠️ Important safety tip: Back up your important files before troubleshooting. SFC, DISM, and CHKDSK address different types of problems, and none can guarantee recovery from every fault. If your HDD is clicking, making unusual noises, or reporting SMART errors, prioritize protecting your data.
+
+💡 Remember: A good technician doesn't just fix problems—they diagnose them correctly!
